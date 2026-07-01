@@ -1,1 +1,2 @@
-# Embedded_System_CPE29
+# Embedded System 1/69 
+## นายบรรพต เซ็นตราม รหัสนักศึกษา B6715588 #CPE29
