@@ -4,7 +4,7 @@
 
 ## 📅 รายการบทเรียน (Weekly Lessons)
 
-* 📄 **Week01** [Introduction](./Week01%20Introduction)
+* 📄 **Week01** [Introduction](./Week01%20Introduction/Week01%20Introduction)
 * 📄 **Week02** Siemens LOGO!8
 * 📄 **Week03** 
 * 📄 **Week04** 
