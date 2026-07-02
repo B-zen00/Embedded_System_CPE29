@@ -96,15 +96,15 @@ Week12  ░░░░░░░░░░   0%
 <img src="https://img.shields.io/badge/GitHub-B--zen00-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://www.instagram.com/banphot_muay">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://facebook.com/YOUR_USERNAME">
+<a href="https://www.facebook.com/banphot.sentram">
 <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:banphot7483@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
