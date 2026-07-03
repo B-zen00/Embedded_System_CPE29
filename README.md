@@ -59,7 +59,6 @@
 Name: Banphot Centram
 Student ID: B6715588
 University: Suranaree University of Technology
-Faculty: Institute of Engineering
 Major: Computer Engineering
 Generation: CPE #29
 Country: Thailand
