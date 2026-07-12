@@ -1,24 +1,3 @@
-<!-- 
-<h1>Embedded System 1/69 </h1> 
-<h3> นายบรรพต เซ็นตราม รหัสนักศึกษา B6715588 #CPE29 </h3> 
-
-## 📅 รายการบทเรียน (Weekly Lessons)
-
-* 📄 **Week01** <a href="./Week01%20Introduction/Week01%20Introduction.md" style="text-decoration: none; color: inherit;">Introduction</a>
-* 📄 **Week02** <a href="./Week02%20Siemens%20LOGO!8/Week02%20Siemens%20LOGO!8.md" style="text-decoration: none; color: inherit;">Siemens LOGO!8</a>
-* 📄 **Week03** 
-* 📄 **Week04** 
-* 📄 **Week05** 
-* 📄 **Week06** 
-* 📄 **Week07** 
-* 📄 **Week08** 
-* 📄 **Week09** 
-* 📄 **Week10** 
-* 📄 **Week11** 
-* 📄 **Week12**
-
--->
-
 <div align="center">
 
 # ⚡ Embedded System 1/69 ⚡
@@ -31,7 +10,7 @@
 <img src="https://img.shields.io/badge/Suranaree%20University%20of%20Technology-SUT-blue?style=for-the-badge" />
 
 </div>
-Schinder M221
+
 ---
 
 ## 📚 Weekly Lessons
@@ -63,29 +42,6 @@ Major: Computer Engineering
 Generation: CPE #29
 Country: Thailand
 ```
-
----
-
-<!--
-## 📊 Repository Progress
-
-```text
-Week01  ██████████ 100%
-Week02  ██████████ 100%
-Week03  ░░░░░░░░░░   0%
-Week04  ░░░░░░░░░░   0%
-Week05  ░░░░░░░░░░   0%
-Week06  ░░░░░░░░░░   0%
-Week07  ░░░░░░░░░░   0%
-Week08  ░░░░░░░░░░   0%
-Week09  ░░░░░░░░░░   0%
-Week10  ░░░░░░░░░░   0%
-Week11  ░░░░░░░░░░   0%
-Week12  ░░░░░░░░░░   0%
-```
-
----
--->
 
 ## 🌐 Connect With Me
 
