@@ -4,3 +4,11 @@
 
 ### 📄 File ชี้แจงเกี่ยวกับรายวิชา
 -->    [ENG23_3072 Embedded Systems 4(3-3-9).pdf](./ENG23_3072%20Embedded%20Systems%204(3-3-9).pdf)
+
+
+<br><br>
+<p align="center">
+  <a href="../README.md">
+    <sub>กลับสู่หน้าหลัก (Main Menu)</sub>
+  </a>
+</p>
