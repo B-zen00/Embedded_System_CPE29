@@ -40,7 +40,7 @@ Schinder M221
 | --------- | -------------------------------------------------------------------------- | 
 | 📄 Week01 | [Introduction](./Week01%20Introduction/Week01%20Introduction.md)           | 
 | 📄 Week02 | [Siemens LOGO!8](./Week02%20Siemens%20LOGO!8/Week02%20Siemens%20LOGO!8.md) | 
-| 📄 Week03 | [Schinder M221](./Week03%20Schinder%20M221/Week02%20Schinder%20M221.md)    | 
+| 📄 Week03 | [Schinder M221](./Week03%20Schinder%20M221/Week03%20Schinder%20M221.md)    | 
 | 📄 Week04 | Coming Soon                                                                | 
 | 📄 Week05 | Coming Soon                                                                | 
 | 📄 Week06 | Coming Soon                                                                | 
