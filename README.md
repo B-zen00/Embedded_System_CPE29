@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Suranaree%20University%20of%20Technology-SUT-blue?style=for-the-badge" />
 
 </div>
-
+Schinder M221
 ---
 
 ## 📚 Weekly Lessons
@@ -40,7 +40,7 @@
 | --------- | -------------------------------------------------------------------------- | 
 | 📄 Week01 | [Introduction](./Week01%20Introduction/Week01%20Introduction.md)           | 
 | 📄 Week02 | [Siemens LOGO!8](./Week02%20Siemens%20LOGO!8/Week02%20Siemens%20LOGO!8.md) | 
-| 📄 Week03 | Coming Soon                                                                | 
+| 📄 Week03 | [Schinder M221](./Week03%20Schinder%20M221/Week02%20Schinder%20M221.md)    | 
 | 📄 Week04 | Coming Soon                                                                | 
 | 📄 Week05 | Coming Soon                                                                | 
 | 📄 Week06 | Coming Soon                                                                | 
