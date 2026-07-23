@@ -21,7 +21,7 @@
 | 📄 Week02 | [Siemens LOGO!8](./Week02%20Siemens%20LOGO!8/Week02%20Siemens%20LOGO!8.md) | 
 | 📄 Week03 | [Schinder M221](./Week03%20Schinder%20M221/Week03%20Schinder%20M221.md)    | 
 | 📄 Week04 | [HMI: Human Machine Interface](./Week04%20HMI/Week04%20HMI.md)             | 
-| 📄 Week05 | Coming Soon                                                                | 
+| 📄 Week05 | ESP32                                                                | 
 | 📄 Week06 | Coming Soon                                                                | 
 | 📄 Week07 | Midterm test                                                               | 
 | 📄 Week08 | Coming Soon                                                                | 
