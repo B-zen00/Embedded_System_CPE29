@@ -18,17 +18,24 @@
 | Week      | Topic                                                                      | 
 | --------- | -------------------------------------------------------------------------- | 
 | 📄 Week01 | [Introduction](./Week01%20Introduction/Week01%20Introduction.md)           | 
-| 📄 Week02 | [Siemens LOGO!8](./Week02%20Siemens%20LOGO!8/Week02%20Siemens%20LOGO!8.md) | 
-| 📄 Week03 | [Schinder M221](./Week03%20Schinder%20M221/Week03%20Schinder%20M221.md)    | 
-| 📄 Week04 | [HMI: Human Machine Interface](./Week04%20HMI/Week04%20HMI.md)             | 
-| 📄 Week05 | [ESP32](./Week05%20ESP32/Week05%20ESP32.md)                                | 
+| 📄 Week02 | [M02 : Siemens LOGO!8](./Week02%20Siemens%20LOGO!8/Week02%20Siemens%20LOGO!8.md) | 
+| 📄 Week03 | [M03 : Schinder M221](./Week03%20Schinder%20M221/Week03%20Schinder%20M221.md)    | 
+| 📄 Week04 | [M04 : HMI: Human Machine Interface](./Week04%20HMI/Week04%20HMI.md)             | 
+| 📄 Week05 | [M01 : ESP32](./Week05%20ESP32/Week05%20ESP32.md)                                | 
 | 📄 Week06 | Coming Soon                                                                | 
 | 📄 Week07 | Midterm test                                                               | 
 | 📄 Week08 | Coming Soon                                                                | 
 | 📄 Week09 | Coming Soon                                                                | 
 | 📄 Week10 | Coming Soon                                                                | 
 | 📄 Week11 | Coming Soon                                                                | 
-| 📄 Week12 | Coming Soon                                                                |
+| 📄 Week12 | Coming Soon                                                                | 
+
+<!--
+| 📄 Week09 | IRIV Pi Control: Raspberry Pi 4 Industrial Board Install OS, NodeRED I/O   | 
+| 📄 Week10 | RPi Image Processing                                                       | 
+| 📄 Week11 | IPC217 Industrial PC                                                       | 
+| 📄 Week12 | IPC217 IoTs Gateway                                                        |
+-->
 
 ---
 
